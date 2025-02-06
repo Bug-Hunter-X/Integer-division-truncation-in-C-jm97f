@@ -1,0 +1,1 @@
+This repository demonstrates a common error in C programming related to integer division.  Integer division in C truncates the result towards zero. This example shows how to obtain the expected behavior. This is a concise example showcasing a potential source of unexpected behavior for less experienced C programmers.
