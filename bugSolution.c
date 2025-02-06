@@ -1,0 +1,1 @@
+int main() {float x = 10; float y = 5; float z = x / y; printf("%f\n", z); return 0;} 
